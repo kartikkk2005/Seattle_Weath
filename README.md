@@ -2,7 +2,7 @@
 import pandas as pd
 import numpy as np
 
-# ---
+# ----
 # Step 2: Load the dataset
 # ---
 # Make sure the CSV file is in the same directory as your script
